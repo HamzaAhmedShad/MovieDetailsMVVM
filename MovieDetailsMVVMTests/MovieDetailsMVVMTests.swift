@@ -1,14 +1,14 @@
 //
-//  MovieDetailsMVVMTests.swift
-//  MovieDetailsMVVMTests
+//  MainViewController+TableView.swift
+//  movieTrending
 //
-//  Created by BS1101 on 10/4/23.
+//  Created by BS1101 on 5/4/23.
 //
 
 import XCTest
 @testable import MovieDetailsMVVM
 
-final class MovieDetailsMVVMTests: XCTestCase {
+class MovieDetailsMVVMTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

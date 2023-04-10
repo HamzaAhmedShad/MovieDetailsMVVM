@@ -1,13 +1,13 @@
 //
-//  MovieDetailsMVVMUITestsLaunchTests.swift
-//  MovieDetailsMVVMUITests
+//  MainViewController+TableView.swift
+//  movieTrending
 //
-//  Created by BS1101 on 10/4/23.
+//  Created by BS1101 on 5/4/23.
 //
 
 import XCTest
 
-final class MovieDetailsMVVMUITestsLaunchTests: XCTestCase {
+class MovieDetailsMVVMUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
