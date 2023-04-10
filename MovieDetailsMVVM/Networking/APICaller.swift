@@ -17,7 +17,7 @@ public class APICaller {
     
     static func getTrendingMovies(completionHandler: @escaping (_ result: Result<TrendingMovieModel, NetworkError>) -> Void) {
         if NetworkConstants.shared.apiKey.isEmpty {
-            print("a4389099c63f52cede3a1957257dbfcf")
+            print("110ef0e042852cde9a3753a6b583baaa")
             print("https://api.themoviedb.org/3/")
             return
         }
